@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "WHsHAVLjyKU+lkQ36REaFIzMAXnlqRdagXzOMTLWlvcxnQRxt2yqoAgRWz09iA1T31F3j+Iy45yi5ujuln9JmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\std\\source\\repos\\SimpleCalendar\\SimpleCalendar\\SimpleCalendar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\std\\.nuget\\packages\\dynamiclanguageruntime\\1.3.3\\dynamiclanguageruntime.1.3.3.nupkg.sha512",
+    "C:\\Users\\std\\.nuget\\packages\\ironpython\\3.4.0\\ironpython.3.4.0.nupkg.sha512",
+    "C:\\Users\\std\\.nuget\\packages\\mono.unix\\7.1.0-final.1.21458.1\\mono.unix.7.1.0-final.1.21458.1.nupkg.sha512",
+    "C:\\Users\\std\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
